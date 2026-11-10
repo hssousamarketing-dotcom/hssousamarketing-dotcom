@@ -10,11 +10,8 @@ I am a Software Development student currently in my 2nd year at IEMA (Maranhão,
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="VS Code" />
+  ### 🛠️ Tech Stack & Tools
+![Python](https://shields.io) ![MySQL](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io)
 </p>
 
 ### 📈 My Learning Journey & Goals
