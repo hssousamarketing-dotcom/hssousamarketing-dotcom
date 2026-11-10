@@ -9,13 +9,7 @@ I am a Software Development student currently in my 2nd year at IEMA (Maranhão,
 - 🇺🇸 **English:** Reactivating my English vocabulary to achieve professional fluency.
 
 ### 🛠️ Tech Stack & Tools
-<p align="left">
- ![Python](https://shields.io)
-![MySQL](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![VS Code](https://shields.io)
-</p>
+<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> <img src="https://shields.io" alt="VS Code" />
 
 ### 📈 My Learning Journey & Goals
 - [ ] Complete the Python & SQL tracks from top platforms.
